@@ -91,7 +91,7 @@ button:hover {
 }
 
 .data-box:hover {
-    transform: translateY(-5px); /* Slight lift effect on hover */
+    transform: translateZ(+5px); /* Slight lift effect on hover */
 }
 
 .result-title {
